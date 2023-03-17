@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstname": "Sukhvinder",
+      "lastname": "Singh",
+      "email": "sukh@gmail.com"
+    },
+    {
+      "id": 7,
+      "firstname": "Jacob",
+      "lastname": "Goodson",
+      "email": "aba@ge.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
