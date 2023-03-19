@@ -26,4 +26,10 @@ export class ApiService {
       return res;
     }))
   }
+
+  editemp( id : number, data : any) {
+    return this.http.patch<any>("http://localhost:3000/posts/" +id, data).pipe(map((res:any)=> {
+      return res;
+    }))
+  }
 }
